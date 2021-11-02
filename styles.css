@@ -1,61 +1,57 @@
-body {
-	width: 50.8%;
-	margin-left: auto;
-	margin-right: auto;
-	
-}
 
-.h2 {position:fixed;
-	font-size: 26px;
+
+.h2 {
+	font-size: 30px;
 	text-align: center;
-	padding: 0px;
-	margin: -0px;
+	padding: 10px;
+	margin: -30px;
 	background-color: green;
-	list-style-type: none;
-	width: 1260px;
 	float: center;
-	width:50.8%;
-	left: 630px;
+
+
 }
 
 header {
-	float: center;
 	background-color: black;
 	color: white;
-	width: 1260px;
+	padding: 0px;
+	margin: -0px;
 	float: center;
-	
 }
 nav {width: 150px;
 	float:left;
 	background-color: lightgray;
-	width: 13%;
-	
+	height: 1050px;
+	margin: 0px;
 }
 section {
 	background-color: beige;
-	height: 400px;
+	height: 1100px;
 	
 }
 footer {
 		position:fixed;
-		bottom:700px;
-		width:50.8%;
-		height:60px;
+		bottom:0;
+		width:100%;
+		height:50px;
 }
 nav ul {
-	height: 287px;
-	list-style: none;
-	width: 50%;
-}
-
-p { text-align: center;
-	
-}
-h2 { text-align: center;
+	height: 50px;
+	list-style: square;
+	padding: 10px;
+	width: 100%;
 	
 }
 
-div { text-align: center;
+p { text-align: leftwards;
+	padding-left:300px;
 	
+}
+h2 { text-align: left;
+		padding-left:300px;
+		padding-top:20px;
+}
+
+div { text-align: leftwards;
+	padding-left:300px;
 }
