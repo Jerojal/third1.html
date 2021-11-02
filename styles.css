@@ -6,7 +6,6 @@
 	padding: 10px;
 	margin: -30px;
 	background-color: green;
-	float: center;
 
 
 }
@@ -16,7 +15,6 @@ header {
 	color: white;
 	padding: 0px;
 	margin: -0px;
-	float: center;
 }
 nav {width: 150px;
 	float:left;
@@ -44,7 +42,7 @@ nav ul {
 	
 }
 
-p { text-align: leftwards;
+p { text-align: left;
 	padding-left:300px;
 	
 }
@@ -53,7 +51,7 @@ h2 { text-align: left;
 		padding-top:20px;
 }
 
-div { text-align: leftwards;
+div { text-align: left;
 	padding-left:300px;
 }
 		a:hover { color: green; }
