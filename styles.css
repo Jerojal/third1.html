@@ -9,7 +9,7 @@ body {
 	font-size: 26px;
 	text-align: center;
 	padding: 0px;
-	margin: 0px;
+	margin: -0px;
 	background-color: green;
 	list-style-type: none;
 	width: 1260px;
@@ -23,12 +23,13 @@ header {
 	background-color: black;
 	color: white;
 	width: 1260px;
-
+	float: center;
+	
 }
 nav {width: 150px;
 	float:left;
 	background-color: lightgray;
-	width: 15%;
+	width: 13%;
 	
 }
 section {
@@ -46,4 +47,15 @@ nav ul {
 	height: 287px;
 	list-style: none;
 	width: 50%;
+}
+
+p { text-align: center;
+	
+}
+h2 { text-align: center;
+	
+}
+
+div { text-align: center;
+	
 }
