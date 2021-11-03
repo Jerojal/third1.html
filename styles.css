@@ -19,18 +19,18 @@ header {
 nav {width: 150px;
 	float:left;
 	background-color: lightgray;
-	height: 910px;
+	height: 850px;
 	margin: 0px;
 }
 section {
 	background-color: beige;
-	height: 950px;
+	height: 900px;
 	
 }
 footer {
 	text-align: center;
 	padding-left: 900px;
-	max-width	:65%;
+	max-width:65%;
 
 }
 nav ul {
