@@ -6,7 +6,7 @@
 	padding: 10px;
 	margin: -30px;
 	background-color: green;
-	width: 101%;
+	width: 101.2%;
 
 }
 
@@ -19,18 +19,18 @@ header {
 nav {width: 150px;
 	float:left;
 	background-color: lightgray;
-	height: 1010px;
+	height: 910px;
 	margin: 0px;
 }
 section {
 	background-color: beige;
-	height: 1030px;
+	height: 950px;
 	
 }
 footer {
 	text-align: center;
 	padding-left: 900px;
-	width:65%;
+	max-width	:65%;
 
 }
 nav ul {
